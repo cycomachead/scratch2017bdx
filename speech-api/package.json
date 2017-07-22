@@ -1,0 +1,26 @@
+{
+  "name": "speech-api",
+  "version": "0.0.1",
+  "description": "A simple API server that demonstrates calling the `SAY` command line tool on the Mac.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cycomachead/scratch2017bdx.git"
+  },
+  "author": "Michael Ball",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cycomachead/scratch2017bdx/issues"
+  },
+  "homepage": "https://github.com/cycomachead/scratch2017bdx#readme",
+  "dependences": {
+      "express": ">4.x.x"
+  },
+  "engines": {
+      "node": ">=7.x.x"
+  }
+}
